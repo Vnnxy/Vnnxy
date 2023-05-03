@@ -9,8 +9,8 @@
 ### Connect with me:
 
 
-[![instagram](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![instagram](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![instagram](./img/linkedin-light.svg)](https://www.instagram.com/ponpoko.rinn/#gh-light-mode-only)
+[![instagram](./img/linkedin-dark.svg)](https://www.instagram.com/ponpoko.rinn/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![linkedin](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![linkedin](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
