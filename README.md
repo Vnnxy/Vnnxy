@@ -12,8 +12,8 @@
 [![instagram](./img/linkedin-light.svg)](https://www.instagram.com/ponpoko.rinn/#gh-light-mode-only)
 [![instagram](./img/linkedin-dark.svg)](https://www.instagram.com/ponpoko.rinn/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![linkedin](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![linkedin](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![linkedin](./img/instagram-light.svg)](www.linkedin.com/in/AkiraAsanoLopez#gh-light-mode-only)
+[![linkedin](./img/instagram-dark.svg)](www.linkedin.com/in/AkiraAsanoLopez#gh-dark-mode-only)
 
 ### Languages:
 
@@ -32,5 +32,4 @@
 ---
 
 [instagram]: https://www.instagram.com/ponpoko.rinn/
-[linkedin]: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BaMMjHsbXSqS6OZcmT2S7bw%3D%3D
-
+[linkedin]: www.linkedin.com/in/AkiraAsanoLopez
