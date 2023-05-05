@@ -1,5 +1,4 @@
-# Wassaaaaaaaa👋
-
+# Wassaaaaaaaa 🌊
 
 ## I'm currently a CS Student in UNAM Facultad de Ciencias
 I'm currently finishing my first year in the degree. 
