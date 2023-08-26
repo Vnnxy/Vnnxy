@@ -1,7 +1,7 @@
 # Wassaaaaaaaa 🌊
 
-## I'm currently a CS Student in UNAM Facultad de Ciencias
-I'm currently finishing my first year in the degree. 
+## I'm currently a CS Student at UNAM Faculty of Science
+I'm currently in my second year of the degree. 
 I'd love to connect with new people, meeting new people is quite fun, and draining too.
 ## Some things about myself (pretty boring I'd say)
 - 🌱 I like trees.
