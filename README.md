@@ -1,54 +1,27 @@
 # Wassaaaaaaaa 🌊
 
-## I'm a second year CS Student at UNAM Faculty of Science
-I'd love to connect with new people, meeting new people is quite fun, and draining too.
-### Connect with me:
+## I'm Akira. 
 
+### I enjoy building things that help accomplish daily tasks or improve experiences.
 
-<a href="https://linkedin.com/in/AkiraAsanoLopez" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://instagram.com/ponpoko.rinn/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
+### Skills:
+- Java
+- JavaScript
+- Python
+- Haskell
+- Racket
 
-### Lannguages I've worked with:
+### Technologies:
+- React
+- MongoDB
+- HTML/CSS
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px ;" />
-</a>
+## Some of my projects:
+  - 🧱 [Maze Generator/Solver](https://github.com/Vnnxy/Maze-Creator-Solver): Utilizing Java and the Dijkstra algorithm, this project creates and solves mazes with the most efficient solution.
+  - 🍅 [Pomodoro Timer](https://github.com/Vnnxy/Pomodoro): Using Javascript and the React framework, this timer helps with productivity by facilitating the use of the Pomodoro technique.
+  - ☁️  [Cloud Storage in Java](https://github.com/Vnnxy/MyP_2024-1/tree/main/proyecto2): A good starting point to a Cloud Storage using Java.
 
-<a href="https://www.mongodb.com/">
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://www.java.com/en/">
-  <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://www.python.org/">
-  <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://www.haskell.org/">
-  <img align="left" alt="Haskell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" style="padding-right:10px;" />
-</a>
-<div style="clear: both;"></div>
-<hr>
-
-### Other technologies:
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://git-scm.com/">
-  <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://www.mysql.com/">
-  <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-</a>
-<div style="clear: both;"></div>
-<hr>
-
-[instagram]: https://www.instagram.com/ponpoko.rinn/
-[linkedin]: www.linkedin.com/in/AkiraAsanoLopez
+## Let's connect! Feel free to reach out to me on any of my socials.
+- Linkedin: https://www.linkedin.com/in/AkiraAsanoLopez/
+- Gmail: akiralopezasano@gmail.com
+- Instagram: https://www.instagram.com/ponpoko.rinn/
