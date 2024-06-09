@@ -7,6 +7,7 @@
 ### Skills:
 - Java
 - JavaScript
+- Typescript
 - Python
 - Haskell
 - Racket
