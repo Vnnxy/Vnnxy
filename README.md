@@ -1,4 +1,4 @@
-# Wassaaaaaaaa 🌊
+# Hello !
 
 ## I'm Akira. 
 
@@ -13,8 +13,10 @@
 - Racket
 
 ### Technologies:
+- Thymeleaf
+- JDBC
 - React
-- MongoDB
+- NextJs
 - HTML/CSS
 
 ## Some of my projects:
