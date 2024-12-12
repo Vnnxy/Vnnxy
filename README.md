@@ -3,21 +3,7 @@
 ## I'm Akira. 
 
 ### I enjoy building things that help accomplish daily tasks or improve experiences.
-
-### Skills:
-- Java
-- JavaScript
-- Typescript
-- Python
-- Haskell
-- Racket
-
-### Technologies:
-- Thymeleaf
-- JDBC
-- React
-- NextJs
-- HTML/CSS
+### My main focus is in Java and related technologies, however, I'm always trying and experimenting new languages and platforms. 
 
 ## Some of my projects:
   - 🧱 [Maze Generator/Solver](https://github.com/Vnnxy/Maze-Creator-Solver): Utilizing Java and the Dijkstra algorithm, this project creates and solves mazes with the most efficient solution.
