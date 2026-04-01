@@ -29,9 +29,9 @@ I'm a software engineer who loves building and learning new things.
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🏥 [Kurinik](#) | Full-stack offline desktop app for medical records management used in a real clinic | Springboot, React, SQLite, Electron  |
-| ⌨️ [TIQ](#) | Full-stack transaction analytics platform  | Springboot, PostgreSQL, Docker, Vue.js |
-| 🎧 [Spotify Rather Game](#) | A game of "Would you rather?" but using tracks with the help of the Spotify API. | NextJS, TailwindCss, React |
+| 🏥 [Kurinik](https://github.com/Vnnxy/Kurinik) | Full-stack offline desktop app for medical records management used in a real clinic | Springboot, React, SQLite, Electron  |
+| ⌨️ [TIQ](https://github.com/Vnnxy/TIQ) | Full-stack transaction analytics platform  | Springboot, PostgreSQL, Docker, Vue.js |
+| 🎧 [Spotify Rather Game](https://github.com/Vnnxy/SpotifyRatherGame) | A game of "Would you rather?" but using tracks with the help of the Spotify API. | NextJS, TailwindCss, React |
 
 ---
 
